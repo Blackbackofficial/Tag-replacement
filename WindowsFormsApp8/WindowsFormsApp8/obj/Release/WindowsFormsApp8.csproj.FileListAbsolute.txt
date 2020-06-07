@@ -1,0 +1,10 @@
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe.config
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.exe
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\bin\Release\WindowsFormsApp8.pdb
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csprojAssemblyReference.cache
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.Form1.resources
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.Properties.Resources.resources
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.GenerateResource.cache
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.csproj.CoreCompileInputs.cache
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.exe
+C:\Users\mishk\source\repos\WindowsFormsApp8\WindowsFormsApp8\obj\Release\WindowsFormsApp8.pdb
