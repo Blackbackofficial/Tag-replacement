@@ -1,3 +1,3 @@
 # Tag-replacement
-Замена тегов по "нечёткому сравнению строк"
-Приложение Windows Form
+Replacing tags by "fuzzy string comparison"
+Windows Form Application
